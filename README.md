@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmed3baas
 - 👀 I’m interested in backend dev
-- 🌱 I’m currently learning php
+- 🌱 I’m currently learning web dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ahmed.3baas@gmail.com
 
